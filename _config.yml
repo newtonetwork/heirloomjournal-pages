@@ -1,0 +1,11 @@
+title: Heirloom Journal
+description: A privacy-first iOS app for recording oral histories with elderly relatives.
+theme: jekyll-theme-minimal
+markdown: kramdown
+permalink: /:title/
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
