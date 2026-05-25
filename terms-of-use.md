@@ -28,4 +28,4 @@ By using Heirloom Journal, you agree to these terms.
 
 For support requests, visit:
 
-<https://github.com/newtonetwork/heirloomjournal/issues>
+<https://newtonetwork.github.io/heirloomjournal-pages/support/>

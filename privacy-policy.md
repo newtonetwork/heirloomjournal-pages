@@ -36,4 +36,4 @@ Heirloom Journal is designed to be local-first and privacy-first.
 
 For support requests, visit:
 
-<https://github.com/newtonetwork/heirloomjournal/issues>
+<https://newtonetwork.github.io/heirloomjournal-pages/support/>
