@@ -5,7 +5,7 @@ permalink: /privacy-policy/
 
 # Heirloom Journal Privacy Policy
 
-**Last updated: July 30, 2026**
+**Last updated: October 14, 2026**
 
 Heirloom Journal is designed to be local-first and privacy-first. Your family's stories stay on your device. We do not operate servers that receive your recordings, and we have no way to see, hear, or read anything you create in the app.
 
@@ -42,7 +42,7 @@ If you are a parent or guardian and believe a recording of your child exists in 
 
 iCloud sync is off unless you turn it on. When it is on:
 
-- **Notes, transcripts, photos, and interview details** sync through **your own private iCloud database**, to devices signed in with your Apple ID. This uses Apple's CloudKit. We do not have access to your private iCloud database.
+- **Notes, transcripts, photos, interview details, and your custom interview prompts** sync through **your own private iCloud database**, to devices signed in with your Apple ID. This uses Apple's CloudKit (custom prompts use iCloud key-value storage). We do not have access to your private iCloud database.
 - **Audio recordings stay on the device where they were recorded.** They do not sync. If you want a copy of the audio elsewhere, use the app's export feature.
 - You can turn iCloud sync off at any time in Settings.
 
