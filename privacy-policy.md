@@ -58,7 +58,7 @@ Deleting your data in the app removes it from that device. If iCloud sync was on
 
 - You can edit or delete any content in the app.
 - You can turn iCloud Sync off in app settings.
-- You can delete all app data from within Settings, or remove the app from your device.
+- You can delete all app data on your device from within the app's Settings, or remove the app from your device. If iCloud Sync was on, this does not delete the copies in your private iCloud; you can delete those in the iPhone Settings app under your name → iCloud → Manage Account Storage → Heirloom Journal.
 
 ## Changes to this policy
 

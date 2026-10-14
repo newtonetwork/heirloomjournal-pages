@@ -35,8 +35,10 @@ and details about each family member.
 
 **How do I delete everything?**
 Settings → Delete All Data. This is permanent and cannot be undone. It removes
-everything from this device; if iCloud Sync was on, copies may remain in your
-private iCloud for a while under Apple's retention policies.
+everything from this device. If iCloud Sync was on, it does **not** remove the
+copies in your private iCloud. To delete those too, open the iPhone Settings app →
+your name → iCloud → Manage Account Storage (or Manage Storage) → Heirloom Journal,
+and delete its data.
 
 ## Privacy and terms
 
