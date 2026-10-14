@@ -23,7 +23,7 @@ There are no accounts. You never create a username or password, and you never se
 ## How data is processed
 
 - Recording uses Apple's audio APIs on your device.
-- Transcription uses Apple's Speech APIs and runs on your device. On some versions of iOS, the system may download a speech recognition model from Apple the first time you transcribe in a given language. That download is handled by iOS, not by us, and your audio is not part of it.
+- Transcription uses Apple's Speech APIs and runs on your device. On some versions of iOS, the system may download a speech recognition model from Apple the first time you transcribe in a given language. That download is handled by iOS, not by us, and your audio is not part of it. If you turn Speech Recognition off for Heirloom Journal in your iPhone's Settings, the app does not transcribe and does not download a speech model; your recordings are still saved.
 - Heirloom Journal contains no analytics, advertising SDKs, or third-party tracking.
 
 ## Recordings of children
