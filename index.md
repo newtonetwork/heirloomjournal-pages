@@ -12,5 +12,4 @@ Built to preserve family stories — without accounts, subscriptions, analytics,
 
 - [Privacy Policy](./privacy-policy/)
 - [Terms of Use](./terms-of-use/)
-- [Support](/support/)
-- [Source on GitHub](https://github.com/newtonetwork/heirloomjournal)
+- [Support](./support/)

@@ -5,7 +5,7 @@ permalink: /privacy-policy/
 
 # Heirloom Journal Privacy Policy
 
-**Last updated: July 30, 2026**
+**Last updated: October 14, 2026**
 
 Heirloom Journal is designed to be local-first and privacy-first. Your family's stories stay on your device. We do not operate servers that receive your recordings, and we have no way to see, hear, or read anything you create in the app.
 
@@ -23,7 +23,7 @@ There are no accounts. You never create a username or password, and you never se
 ## How data is processed
 
 - Recording uses Apple's audio APIs on your device.
-- Transcription uses Apple's Speech APIs and runs on your device. On some versions of iOS, the system may download a speech recognition model from Apple the first time you transcribe in a given language. That download is handled by iOS, not by us, and your audio is not part of it.
+- Transcription uses Apple's Speech APIs and runs on your device. On some versions of iOS, the system may download a speech recognition model from Apple the first time you transcribe in a given language. That download is handled by iOS, not by us, and your audio is not part of it. If you turn Speech Recognition off for Heirloom Journal in your iPhone's Settings, the app does not transcribe and does not download a speech model; your recordings are still saved.
 - Heirloom Journal contains no analytics, advertising SDKs, or third-party tracking.
 
 ## Recordings of children
@@ -42,7 +42,7 @@ If you are a parent or guardian and believe a recording of your child exists in 
 
 iCloud sync is off unless you turn it on. When it is on:
 
-- **Notes, transcripts, photos, and interview details** sync through **your own private iCloud database**, to devices signed in with your Apple ID. This uses Apple's CloudKit. We do not have access to your private iCloud database.
+- **Notes, transcripts, photos, interview details, and your custom interview prompts** sync through **your own private iCloud database**, to devices signed in with your Apple ID. This uses Apple's CloudKit (custom prompts use iCloud key-value storage). We do not have access to your private iCloud database.
 - **Audio recordings stay on the device where they were recorded.** They do not sync. If you want a copy of the audio elsewhere, use the app's export feature.
 - You can turn iCloud sync off at any time in Settings.
 
@@ -58,7 +58,7 @@ Deleting your data in the app removes it from that device. If iCloud sync was on
 
 - You can edit or delete any content in the app.
 - You can turn iCloud Sync off in app settings.
-- You can delete all app data from within Settings, or remove the app from your device.
+- You can delete all app data on your device from within the app's Settings, or remove the app from your device. If iCloud Sync was on, this does not delete the copies in your private iCloud; you can delete those in the iPhone Settings app under your name → iCloud → Manage Account Storage → Heirloom Journal.
 
 ## Changes to this policy
 

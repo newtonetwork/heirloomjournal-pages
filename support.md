@@ -23,18 +23,24 @@ When you reach out, please include:
 ## Common questions
 
 **Where is my data stored?**
-Locally on your device by default. If you enable iCloud Sync, your data syncs
-through your own Apple ID via iCloud / CloudKit. Heirloom Journal never
-operates its own server.
+Locally on your device by default. If you turn on iCloud Sync, your notes,
+transcripts, photos, interview details, and custom prompts sync through your own
+private iCloud account (Apple's CloudKit). **Audio recordings never sync — they
+stay on the device where they were recorded.** To keep a copy of the audio
+elsewhere, use the in-app export. Heirloom Journal never operates its own server.
 
 **How do I export my recordings?**
 Use the in-app export feature. Exports include your recordings, transcripts,
-and subject metadata.
+and details about each family member.
 
 **How do I delete everything?**
-Settings → Delete All Data. This is permanent and cannot be undone.
+Settings → Delete All Data. This is permanent and cannot be undone. It removes
+everything from this device. If iCloud Sync was on, it does **not** remove the
+copies in your private iCloud. To delete those too, open the iPhone Settings app →
+your name → iCloud → Manage Account Storage (or Manage Storage) → Heirloom Journal,
+and delete its data.
 
 ## Privacy and terms
 
-- [Privacy Policy](/privacy-policy/)
-- [Terms of Use](/terms-of-use/)
+- [Privacy Policy](../privacy-policy/)
+- [Terms of Use](../terms-of-use/)
