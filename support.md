@@ -11,7 +11,6 @@ and aim to respond within a few business days.
 ## Get help
 
 - **Email:** [newtonetwork18@gmail.com](mailto:newtonetwork18@gmail.com)
-- **Issue tracker (public):** [github.com/newtonetwork/heirloomjournal-pages/issues](https://github.com/newtonetwork/heirloomjournal-pages/issues)
 
 When you reach out, please include:
 
@@ -19,6 +18,8 @@ When you reach out, please include:
 - App version (Settings → About in the app)
 - A short description of what you expected vs. what happened
 - Steps to reproduce if you can
+
+Please don’t send family members’ names, stories or recordings unless we ask for them to solve a problem.
 
 ## Common questions
 
