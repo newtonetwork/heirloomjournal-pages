@@ -3,9 +3,9 @@ title: Terms of Use
 permalink: /terms-of-use/
 ---
 
-# Heirloom Journal Terms of Use
+# Heirloom: Family Interviews Terms of Use
 
-By using Heirloom Journal, you agree to these terms.
+By using Heirloom, you agree to these terms.
 
 ## Acceptable use
 
@@ -15,7 +15,7 @@ By using Heirloom Journal, you agree to these terms.
 
 ## Data responsibility
 
-- Heirloom Journal is local-first; data remains on your device unless you enable iCloud Sync.
+- Heirloom is local-first; data remains on your device unless you enable iCloud Sync.
 - You are responsible for safeguarding exported files, which may include sensitive family information.
 - Optional iCloud Sync uses your Apple ID and Apple's CloudKit service.
 
