@@ -1,7 +1,7 @@
 # heirloomjournal-pages
 
 Public landing page, privacy policy, and terms of use for the
-[Heirloom Journal](https://github.com/newtonetwork/heirloomjournal) iOS app.
+[Heirloom: Family Interviews](https://github.com/newtonetwork/heirloomjournal) iOS app.
 
 Served via GitHub Pages at:
 - https://newtonetwork.github.io/heirloomjournal-pages/

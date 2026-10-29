@@ -1,8 +1,8 @@
 ---
-title: Heirloom Journal
+title: "Heirloom: Family Interviews"
 ---
 
-# Heirloom Journal
+# Heirloom: Family Interviews
 
 A privacy-first iOS app for recording oral histories with elderly relatives.
 

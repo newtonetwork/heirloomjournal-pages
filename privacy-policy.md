@@ -3,13 +3,13 @@ title: Privacy Policy
 permalink: /privacy-policy/
 ---
 
-# Heirloom Journal Privacy Policy
+# Heirloom: Family Interviews Privacy Policy
 
-**Last updated: October 14, 2026**
+**Last updated: October 28, 2026**
 
-Heirloom Journal is designed to be local-first and privacy-first. Your family's stories stay on your device. We do not operate servers that receive your recordings, and we have no way to see, hear, or read anything you create in the app.
+Heirloom is designed to be local-first and privacy-first. Your family's stories stay on your device. We do not operate servers that receive your recordings, and we have no way to see, hear, or read anything you create in the app.
 
-## What Heirloom Journal stores
+## What Heirloom stores
 
 Everything below is stored on your device:
 
@@ -23,20 +23,20 @@ There are no accounts. You never create a username or password, and you never se
 ## How data is processed
 
 - Recording uses Apple's audio APIs on your device.
-- Transcription uses Apple's Speech APIs and runs on your device. On some versions of iOS, the system may download a speech recognition model from Apple the first time you transcribe in a given language. That download is handled by iOS, not by us, and your audio is not part of it. If you turn Speech Recognition off for Heirloom Journal in your iPhone's Settings, the app does not transcribe and does not download a speech model; your recordings are still saved.
-- Heirloom Journal contains no analytics, advertising SDKs, or third-party tracking.
+- Transcription uses Apple's Speech APIs and runs on your device. On some versions of iOS, the system may download a speech recognition model from Apple the first time you transcribe in a given language. That download is handled by iOS, not by us, and your audio is not part of it. If you turn Speech Recognition off for Heirloom in your iPhone's Settings, the app does not transcribe and does not download a speech model; your recordings are still saved.
+- Heirloom contains no analytics, advertising SDKs, or third-party tracking.
 
 ## Recordings of children
 
-Heirloom Journal is built for preserving family history, and we know that sometimes includes children — a grandchild interviewing a grandparent, or a parent recording a young child's story.
+Heirloom is built for preserving family history, and we know that sometimes includes children — a grandchild interviewing a grandparent, or a parent recording a young child's story.
 
 - **We ask before the first recording of any person.** The app asks you to confirm that the person being recorded has given their permission.
-- **For anyone who may be under 13, the app requires a parent or guardian's permission.** If you tell the app the person is under 13, or if the birth year you enter indicates they may be, Heirloom Journal will not let you record until you confirm that a parent or guardian has given permission. If you add a birth year later that shows the person may be under 13, the app will ask again before the next recording.
+- **For anyone who may be under 13, the app requires a parent or guardian's permission.** If you tell the app the person is under 13, or if the birth year you enter indicates they may be, Heirloom will not let you record until you confirm that a parent or guardian has given permission. If you add a birth year later that shows the person may be under 13, the app will ask again before the next recording.
 - **This confirmation is stored only on your device.** It is a note to you, recording that you were asked. It is never sent to us or to anyone else.
-- **We do not knowingly collect personal information from children — or from anyone.** Heirloom Journal has no accounts, no servers that receive your content, and no data collection of any kind. A child's recording is stored exactly like every other recording: on your device, under your control.
+- **We do not knowingly collect personal information from children — or from anyone.** Heirloom has no accounts, no servers that receive your content, and no data collection of any kind. A child's recording is stored exactly like every other recording: on your device, under your control.
 - **You can delete a child's recordings at any time** using the delete options in the app, the same as any other content.
 
-If you are a parent or guardian and believe a recording of your child exists in someone else's copy of Heirloom Journal, we cannot access or remove it — we have no copy of it. Please contact the person who made the recording. They can delete it from within the app.
+If you are a parent or guardian and believe a recording of your child exists in someone else's copy of Heirloom, we cannot access or remove it — we have no copy of it. Please contact the person who made the recording. They can delete it from within the app.
 
 ## iCloud sync
 
@@ -58,7 +58,7 @@ Deleting your data in the app removes it from that device. If iCloud sync was on
 
 - You can edit or delete any content in the app.
 - You can turn iCloud Sync off in app settings.
-- You can delete all app data on your device from within the app's Settings, or remove the app from your device. If iCloud Sync was on, this does not delete the copies in your private iCloud; you can delete those in the iPhone Settings app under your name → iCloud → Manage Account Storage → Heirloom Journal.
+- You can delete all app data on your device from within the app's Settings, or remove the app from your device. If iCloud Sync was on, this does not delete the copies in your private iCloud; you can delete those in the iPhone Settings app under your name → iCloud → Manage Account Storage → Heirloom.
 
 ## Changes to this policy
 
